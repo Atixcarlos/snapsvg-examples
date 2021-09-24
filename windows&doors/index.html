@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>windows and doors - SNAP SVG</title>  
+        <link rel="stylesheet" href="https://cdn.unkuna.org/v0.9.0/css/unkuna.css">
+        <link rel="stylesheet" href="https://cdn.unkuna.org/v0.9.0/theme/unkuna-theme.css">
+        <link rel = "stylesheet" href = "style.css">
+       
+        <script src="https://cdn.unkuna.org/v0.9.0/javascript/unkuna.js"></script>           
+        <script src="../snap.svg.js"></script>
+  </head>
+  <body>
+<div class="nkn-row">
+    <div class="nkn-col-s3">
+        
+    </div>
+    <div class="nkn-col-s6">
+        <div id="container" class="nkn-container"> 
+
+            <!--Here's the DIV that will hold the animated SVG icon-->
+            <svg id="svgDiv"></svg>   
+        </div>
+    </div>
+    <div class="nkn-col-s3">
+        <form action="" id="frmWindow&Doors">
+            <div class="nkn-row-padding">
+                <h3 class="nkn-text-center">Windows</h3>
+                <div class="nkn-col-s4">
+                    <label class="nkn-label" for="txtSmallWindows">Quantity small windows:</label>
+                </div>
+                <div class="nkn-col-s8">
+                    <input class="nkn-input" id="txtSmallWindows" name ="txtSmallWindows" type="number">
+                </div>
+            </div>
+            <div class="nkn-row-padding">
+                <div class="nkn-col-s4">
+                    <label class="nkn-label" for="txtMediumWindows">Quantity medium windows:</label>
+                </div>
+                <div class="nkn-col-s8">
+                    <input class="nkn-input" id="txtMediumWindows" name ="txtMediumWindows" type="number">
+                </div>
+            </div>
+            <div class="nkn-row-padding">
+                <div class="nkn-col-s4">
+                    <label class="nkn-label" for="txtLargeWindows">Quantity large windows:</label>
+                </div>
+                <div class="nkn-col-s8">
+                    <input class="nkn-input" id="txtLargeWindows" name ="txtLargeWindows" type="number">
+                </div>
+            </div>
+            <div class="nkn-row-padding">
+                <h3 class="nkn-text-center">Doors</h3>
+                <div class="nkn-col-s4">
+                    <label class="nkn-label" for="txtDoors">Quantity doors:</label>
+                </div>
+                <div class="nkn-col-s8">
+                    <input class="nkn-input" id="txtDoors" name ="txtDoors" type="number">
+                </div>
+            </div>
+          
+            <div class="nkn-row-padding">
+                <div class="nkn-col-s12 nkn-text-right">
+                    <button class="nkn-button">Generate</button>                        
+                </div>        
+            </div>
+        </form>   
+    </div>
+</div>
+                
+        <script src="script.js"></script>            
+   
+  </body>
+</html>

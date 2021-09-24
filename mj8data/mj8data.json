@@ -1,0 +1,89 @@
+{
+	"resourceName": "rooms",
+	"collectionItems": [{
+		"resourceName": "room",
+		"resourceData": {
+			"title": "Living Room",
+			"description": "",
+			"status": "Complete",
+			"extraInfo": null,
+			"roomId": 29,
+			"svg":"PD94bWwgdmVyc2lvbj0iMS4wIj8+CjwhLS0gR2VuZXJhdGVkIGJ5IFNWR28gKGZsb2F0KSAtLT4KPHN2ZyB3aWR0aD0iNDAwLjAwIiBoZWlnaHQ9IjQwMC4wMCIKICAgICB2aWV3Qm94PSIwLjAwIDAuMDAgNDAwLjAwIDQwMC4wMCIKICAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgo8ZyBpZD0iMSI+CjxjaXJjbGUgY3g9IjYwLjAwIiBjeT0iNjAuMDAiIHI9IjIuMDAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOmJsYWNrIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjE2MC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYigyNDQsMTMxLDE1OCkiIC8+CjxsaW5lIHgxPSIxNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjIxMC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYig3Miw5OSw2OSkiIC8+CjxsaW5lIHgxPSIyMTAuMDAiIHkxPSI2MC4wMCIgeDI9IjI2MC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTc3LDIwNiw0NSkiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIxMTAuMDAiIHgyPSIyNjAuMDAiIHkyPSIyNDAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDcwLDI1MywyMikiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIyNDAuMDAiIHgyPSIyMTAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDIwNSwxMSwyMzEpIiAvPgo8bGluZSB4MT0iMjEwLjAwIiB5MT0iMjkwLjAwIiB4Mj0iNjAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDE5NCwxODEsNzEpIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSIyOTAuMDAiIHgyPSIxMC4wMCIgeTI9IjI0MC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMjUyLDIxMSwxODEpIiAvPgo8bGluZSB4MT0iMTAuMDAiIHkxPSIyNDAuMDAiIHgyPSIxMC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTI0LDgzLDIzMSkiIC8+CjxsaW5lIHgxPSIxMC4wMCIgeTE9IjExMC4wMCIgeDI9IjYwLjAwIiB5Mj0iNjAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDEzOCwxMTUsMjgpIiAvPgo8cG9seWdvbiBwb2ludHM9IjE2MC4wMCw2MC4wMCAyMTAuMDAsNjAuMDAgMjYwLjAwLDExMC4wMCAyNjAuMDAsMjQwLjAwIDIxMC4wMCwyOTAuMDAgNjAuMDAsMjkwLjAwIDEwLjAwLDI0MC4wMCAxMC4wMCwxMTAuMDAgNjAuMDAsNjAuMDAiIHN0eWxlPSJmaWxsOiNFRkVGRUYiIC8+CjwvZz4KPC9zdmc+Cg=="			
+		},
+		"links": [{
+			"status": "",
+			"href": "htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7000",
+			"rel": "self",
+			"resourceName": "project",
+			"title": "Project",
+			"description": ""
+		}]
+	}, {
+		"resourceName": "room",
+		"resourceData": {
+			"title": "BATHROOM",
+			"description": "",
+			"status": "Complete",
+			"extraInfo": null,
+			"roomId": 30,
+			"svg":"PD94bWwgdmVyc2lvbj0iMS4wIj8+CjwhLS0gR2VuZXJhdGVkIGJ5IFNWR28gKGZsb2F0KSAtLT4KPHN2ZyB3aWR0aD0iNDAwLjAwIiBoZWlnaHQ9IjQwMC4wMCIKICAgICB2aWV3Qm94PSIwLjAwIDAuMDAgNDAwLjAwIDQwMC4wMCIKICAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgo8ZyBpZD0iMSI+CjxjaXJjbGUgY3g9IjYwLjAwIiBjeT0iNjAuMDAiIHI9IjIuMDAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOmJsYWNrIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjE2MC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYigyNDQsMTMxLDE1OCkiIC8+CjxsaW5lIHgxPSIxNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjIxMC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYig3Miw5OSw2OSkiIC8+CjxsaW5lIHgxPSIyMTAuMDAiIHkxPSI2MC4wMCIgeDI9IjI2MC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTc3LDIwNiw0NSkiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIxMTAuMDAiIHgyPSIyNjAuMDAiIHkyPSIyNDAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDcwLDI1MywyMikiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIyNDAuMDAiIHgyPSIyMTAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDIwNSwxMSwyMzEpIiAvPgo8bGluZSB4MT0iMjEwLjAwIiB5MT0iMjkwLjAwIiB4Mj0iNjAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDE5NCwxODEsNzEpIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSIyOTAuMDAiIHgyPSIxMC4wMCIgeTI9IjI0MC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMjUyLDIxMSwxODEpIiAvPgo8bGluZSB4MT0iMTAuMDAiIHkxPSIyNDAuMDAiIHgyPSIxMC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTI0LDgzLDIzMSkiIC8+CjxsaW5lIHgxPSIxMC4wMCIgeTE9IjExMC4wMCIgeDI9IjYwLjAwIiB5Mj0iNjAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDEzOCwxMTUsMjgpIiAvPgo8cG9seWdvbiBwb2ludHM9IjE2MC4wMCw2MC4wMCAyMTAuMDAsNjAuMDAgMjYwLjAwLDExMC4wMCAyNjAuMDAsMjQwLjAwIDIxMC4wMCwyOTAuMDAgNjAuMDAsMjkwLjAwIDEwLjAwLDI0MC4wMCAxMC4wMCwxMTAuMDAgNjAuMDAsNjAuMDAiIHN0eWxlPSJmaWxsOiNFRkVGRUYiIC8+CjwvZz4KPC9zdmc+Cg=="			
+		},
+		"links": [{
+			"status": "",
+			"href": "htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7001",
+			"rel": "self",
+			"resourceName": "project",
+			"title": "Project",
+			"description": ""
+		}]
+	}, {
+		"resourceName": "room",
+		"resourceData": {
+			"title": "MASTER ROOM",
+			"description": "",
+			"status": "Complete",
+			"extraInfo": null,
+			"roomId": 30,
+			"svg":"PD94bWwgdmVyc2lvbj0iMS4wIj8+CjwhLS0gR2VuZXJhdGVkIGJ5IFNWR28gKGZsb2F0KSAtLT4KPHN2ZyB3aWR0aD0iNDAwLjAwIiBoZWlnaHQ9IjQwMC4wMCIKICAgICB2aWV3Qm94PSIwLjAwIDAuMDAgNDAwLjAwIDQwMC4wMCIKICAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgo8ZyBpZD0iMSI+CjxjaXJjbGUgY3g9IjYwLjAwIiBjeT0iNjAuMDAiIHI9IjIuMDAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOmJsYWNrIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjE2MC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYigyNDQsMTMxLDE1OCkiIC8+CjxsaW5lIHgxPSIxNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjIxMC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYig3Miw5OSw2OSkiIC8+CjxsaW5lIHgxPSIyMTAuMDAiIHkxPSI2MC4wMCIgeDI9IjI2MC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTc3LDIwNiw0NSkiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIxMTAuMDAiIHgyPSIyNjAuMDAiIHkyPSIyNDAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDcwLDI1MywyMikiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIyNDAuMDAiIHgyPSIyMTAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDIwNSwxMSwyMzEpIiAvPgo8bGluZSB4MT0iMjEwLjAwIiB5MT0iMjkwLjAwIiB4Mj0iNjAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDE5NCwxODEsNzEpIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSIyOTAuMDAiIHgyPSIxMC4wMCIgeTI9IjI0MC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMjUyLDIxMSwxODEpIiAvPgo8bGluZSB4MT0iMTAuMDAiIHkxPSIyNDAuMDAiIHgyPSIxMC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTI0LDgzLDIzMSkiIC8+CjxsaW5lIHgxPSIxMC4wMCIgeTE9IjExMC4wMCIgeDI9IjYwLjAwIiB5Mj0iNjAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDEzOCwxMTUsMjgpIiAvPgo8cG9seWdvbiBwb2ludHM9IjE2MC4wMCw2MC4wMCAyMTAuMDAsNjAuMDAgMjYwLjAwLDExMC4wMCAyNjAuMDAsMjQwLjAwIDIxMC4wMCwyOTAuMDAgNjAuMDAsMjkwLjAwIDEwLjAwLDI0MC4wMCAxMC4wMCwxMTAuMDAgNjAuMDAsNjAuMDAiIHN0eWxlPSJmaWxsOiNFRkVGRUYiIC8+CjwvZz4KPC9zdmc+Cg=="			
+		},
+		"links": [{
+			"status": "",
+			"href": "htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7002",
+			"rel": "self",
+			"resourceName": "project",
+			"title": "Project",
+			"description": ""
+		}]
+	}, {
+		"resourceName": "room",
+		"resourceData": {
+			"title": "KITCHEN",
+			"description": "",
+			"status": "Complete",
+			"extraInfo": null,
+			"roomId": 30,
+			"svg":"PD94bWwgdmVyc2lvbj0iMS4wIj8+CjwhLS0gR2VuZXJhdGVkIGJ5IFNWR28gKGZsb2F0KSAtLT4KPHN2ZyB3aWR0aD0iNDAwLjAwIiBoZWlnaHQ9IjQwMC4wMCIKICAgICB2aWV3Qm94PSIwLjAwIDAuMDAgNDAwLjAwIDQwMC4wMCIKICAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgo8ZyBpZD0iMSI+CjxjaXJjbGUgY3g9IjYwLjAwIiBjeT0iNjAuMDAiIHI9IjIuMDAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOmJsYWNrIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjE2MC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYigyNDQsMTMxLDE1OCkiIC8+CjxsaW5lIHgxPSIxNjAuMDAiIHkxPSI2MC4wMCIgeDI9IjIxMC4wMCIgeTI9IjYwLjAwIiBzdHlsZT0iZmlsbDpub25lOyBzdHJva2Utd2lkdGg6Mzsgc3Ryb2tlOnJnYig3Miw5OSw2OSkiIC8+CjxsaW5lIHgxPSIyMTAuMDAiIHkxPSI2MC4wMCIgeDI9IjI2MC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTc3LDIwNiw0NSkiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIxMTAuMDAiIHgyPSIyNjAuMDAiIHkyPSIyNDAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDcwLDI1MywyMikiIC8+CjxsaW5lIHgxPSIyNjAuMDAiIHkxPSIyNDAuMDAiIHgyPSIyMTAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDIwNSwxMSwyMzEpIiAvPgo8bGluZSB4MT0iMjEwLjAwIiB5MT0iMjkwLjAwIiB4Mj0iNjAuMDAiIHkyPSIyOTAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDE5NCwxODEsNzEpIiAvPgo8bGluZSB4MT0iNjAuMDAiIHkxPSIyOTAuMDAiIHgyPSIxMC4wMCIgeTI9IjI0MC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMjUyLDIxMSwxODEpIiAvPgo8bGluZSB4MT0iMTAuMDAiIHkxPSIyNDAuMDAiIHgyPSIxMC4wMCIgeTI9IjExMC4wMCIgc3R5bGU9ImZpbGw6bm9uZTsgc3Ryb2tlLXdpZHRoOjM7IHN0cm9rZTpyZ2IoMTI0LDgzLDIzMSkiIC8+CjxsaW5lIHgxPSIxMC4wMCIgeTE9IjExMC4wMCIgeDI9IjYwLjAwIiB5Mj0iNjAuMDAiIHN0eWxlPSJmaWxsOm5vbmU7IHN0cm9rZS13aWR0aDozOyBzdHJva2U6cmdiKDEzOCwxMTUsMjgpIiAvPgo8cG9seWdvbiBwb2ludHM9IjE2MC4wMCw2MC4wMCAyMTAuMDAsNjAuMDAgMjYwLjAwLDExMC4wMCAyNjAuMDAsMjQwLjAwIDIxMC4wMCwyOTAuMDAgNjAuMDAsMjkwLjAwIDEwLjAwLDI0MC4wMCAxMC4wMCwxMTAuMDAgNjAuMDAsNjAuMDAiIHN0eWxlPSJmaWxsOiNFRkVGRUYiIC8+CjwvZz4KPC9zdmc+Cg=="			
+		},
+		"links": [{
+			"status": "",
+			"href": "htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7003",
+			"rel": "self",
+			"resourceName": "project",
+			"title": "Project",
+			"description": ""
+		}]
+	}],
+	"links": [{
+		"status": "Complete",
+		"href": "htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components",
+		"rel": "self",
+		"resourceName": "projects",
+		"title": "My projects",
+		"description": ""
+	}],
+	"navTrail": [],
+	"status": {
+		"status": "",
+		"errorMsg": ""
+	}
+}

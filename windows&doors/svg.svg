@@ -1,0 +1,19 @@
+
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <desc></desc>
+    <defs></defs>
+  
+    <polygon points="165,50,111,400,400,400,350,50,165,50" style="stroke-width: 2px;" stroke="#969696" fill="#f5f5f5" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7000"></polygon>
+    <g Id="gWallN">
+        <line stroke="#4f4f4f" stroke-width="6px" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7002" y2="50" y1="50" x2="350" x1="165" id="svg_7"/>
+    </g>  
+    <g Id="gWallE">
+        <line stroke="#4f4f4f" stroke-width="6px" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7003" y2="400" x2="400" y1="50" x1="350" id="svg_12"/>
+    </g>
+    <g Id="gWallW">
+        <line stroke="#4f4f4f" stroke-width="6px" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7004" x1="165" y1="50" x2="111" y2="400" id="svg_13"/>
+    </g>
+    <g id="gWallS">
+        <line stroke="#4f4f4f" stroke-width="6px" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7001" y2="400" y1="400" x2="400" x1="111" id="svg_5"/>
+    </g>
+</svg>

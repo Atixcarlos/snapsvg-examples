@@ -1,0 +1,30 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <desc/>
+
+  <title>Layer 1</title>
+    <g id="g3">
+        <line id="svg_3" y2="111" x2="396" y1="81" x1="176" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7003"/>
+    </g>
+    <g id="g4">
+        <line id="svg_4" y2="83" x2="178" y1="189" x1="144" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7004"/>
+    </g>
+    <g id="g5">
+        <line id="svg_5" y2="189" x2="326" y1="111" x1="392" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7005"/>
+    </g>
+    <g id="g6">
+        <line id="svg_6" y2="142" x2="238" y1="188" x1="146" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7006"/>
+    </g>
+    <g id="g7">
+        <line id="svg_7" y2="259" x2="420" y1="187" x1="326" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7007"/>
+    </g>
+    <g id="g8">
+        <line id="svg_8" y2="266" x2="161" y1="142" x1="237" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7008"/>
+    </g>
+    <g id="g9">
+        <line id="svg_10" y2="400" x2="310" y1="262" x1="162" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7009"/>
+    </g>
+    <g id="g10">
+        <line id="svg_12" y2="261" x2="420" y1="401" x1="310" style="stroke-width: 6px;" stroke="#4f4f4f" xlink:href="htttp://localhost:8080/cool_j/accounts/abc-123/projects/1001/mjd8ta/floorlevels/1002/components/7010"/>
+    </g>
+
+</svg>
